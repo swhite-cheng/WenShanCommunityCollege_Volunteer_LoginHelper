@@ -1,0 +1,17 @@
+{
+  "short_name": "志工助手",
+  "name": "文山社大志工簽到助手",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3472/3472718.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#f4f4f9",
+  "display": "standalone",
+  "theme_color": "#4CAF50",
+  "description": "優化文山社大志工簽到流程的輔助工具"
+}
