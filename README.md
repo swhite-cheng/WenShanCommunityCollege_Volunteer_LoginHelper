@@ -7,3 +7,5 @@ login helper the volunteers of WenShan Community College
 2>移動到不擁擠的地方，放大/平移 照片來查看 驗證碼，手動輸入後按下 "複製驗證碼" 到手機的剪貼簿
 3>前往 志工系統登入 並依照螢幕輸入 帳號/密碼 (身分證字號 & 民國出生年月日六碼)
 4>貼上 "驗證碼" 然後按下 "簽到/簽退"
+
+![參考圖片](snapshot_v1.1.png)
