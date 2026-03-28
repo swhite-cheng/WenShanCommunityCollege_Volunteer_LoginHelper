@@ -17,4 +17,4 @@
 * 原生 HTML5 / CSS3 (Flexbox, CSS Variables)
 * Vanilla JavaScript (Touch Events API)
 
-![參考圖片](snapshot_v1.1.png)
+![參考圖片](snapshot_v1.2.png)
